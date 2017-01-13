@@ -1,0 +1,23 @@
+{
+  "name": "define-event",
+  "version": "1.0.0",
+  "description": "Simple function defineEvent(object, eventName) for creating event (callbacks container) in object.",
+  "main": "index.js",
+  "scripts": {
+	
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apyr/define-event.git"
+  },
+  "keywords": [
+    "event",
+    "define-event",
+    "defineEvent",
+    "define event",
+	"callback",
+	"callbacks"
+  ],
+  "author": "Kakotkin Alexei",
+  "license": "ISC"
+}
